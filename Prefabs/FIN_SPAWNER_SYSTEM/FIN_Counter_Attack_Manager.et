@@ -1,0 +1,8 @@
+FIN_Counter_Attack_Manager {
+ ID "5F0CEC620150553E"
+ coords 2.79 0 1.97
+ angleX -7.815
+ angleY -1.229
+ angleZ 8.965
+ m_iCycleDuration 10
+}

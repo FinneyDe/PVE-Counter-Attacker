@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{C8FD88E03B095484}Prefabs/FIN_SPAWNER_SYSTEM/FIN_COUNTER_WAVE_LOGIC.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

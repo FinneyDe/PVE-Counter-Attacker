@@ -1,0 +1,9 @@
+GenericEntity {
+ ID "5F0D541742AEB32C"
+ components {
+  Hierarchy "{5F0D5409E2A5A2E2}" {
+  }
+ }
+ coords 0 0 0
+ angleY 0
+}

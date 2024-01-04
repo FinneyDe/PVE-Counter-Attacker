@@ -1,0 +1,18 @@
+GenericEntity : "{522DCD528AE27052}Prefabs/Systems/MilitaryBase/ConflictRelayRadio.et" {
+ ID "5C727AD73024FB47"
+ components {
+  BaseRadioComponent "{5C727AD73024FB2A}" {
+   Transceivers {
+    RelayTransceiver "{5C727AD73024FB39}" {
+     "Transmitting Range" 1500
+    }
+   }
+  }
+  SCR_CampaignMilitaryBaseComponent "{5C727AD73024FB00}" {
+   m_sBaseName "#AR-Campaign_MapLocation_Tower_Regina"
+   m_sBaseNameUpper "#AR-Campaign_MapLocation_Tower_Regina-UC"
+  }
+ }
+ coords 7689.868 342.063 3055.818
+ angleY 165.717
+}

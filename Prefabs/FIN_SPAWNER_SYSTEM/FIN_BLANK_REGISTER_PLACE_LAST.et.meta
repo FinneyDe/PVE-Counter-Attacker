@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{F2D9903AF464B5F8}Prefabs/FIN_SPAWNER_SYSTEM/FIN_BLANK_REGISTER_PLACE_LAST.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

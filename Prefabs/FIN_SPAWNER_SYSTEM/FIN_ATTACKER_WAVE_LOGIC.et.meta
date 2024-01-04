@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B1AAEAD7BFBEC76C}Prefabs/FIN_SPAWNER_SYSTEM/FIN_ATTACKER_WAVE_LOGIC.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
